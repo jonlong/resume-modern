@@ -1,0 +1,40 @@
+---
+import { YYYYMM, HumanDate } from "../types/datestring";
+import Prose from "./Prose.astro"
+
+export interface Props {
+  role: string;
+  startDatetime?: YYYYMM;
+  startDateHuman?: HumanDate;
+  endDatetime?: YYYYMM;
+  endDateHuman?: HumanDate;
+  class?: string;
+}
+
+const { role, startDatetime, startDateHuman, endDatetime, endDateHuman, class: className } = Astro.props;
+---
+
+<section class:list={["mb-10 last:mb-0", className]}>
+  <h4 class="text-2xl font-bold tracking-tight text-gray-700 mb-0.5">{role}</h4>
+  <p class="text-gray-500 italic mb-4">
+      { startDatetime && (
+      <Fragment>
+        <time datetime={startDatetime}>
+          {startDateHuman}
+        </time>
+        —
+      </Fragment>)
+      }
+      {
+        endDatetime &&
+        (<time datetime={endDatetime}>
+          {endDateHuman}
+        </time>)
+      }
+      {  startDatetime && !endDatetime && "present" }
+  </p>
+
+  <Prose class="prose">
+    <slot />
+  </Prose>
+</section>

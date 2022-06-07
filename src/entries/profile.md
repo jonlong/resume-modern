@@ -1,0 +1,1 @@
+I've been working on the web since 2007 as a generalist with a deep focus in UI development and bridging gaps across design and engineering teams. I use my experience as a designer, developer, consultant, and tech lead to elevate teammates, steer discussions towards positive outcomes, and improve stakeholders' bottom lines.

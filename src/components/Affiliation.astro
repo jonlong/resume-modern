@@ -1,0 +1,25 @@
+---
+import Prose from "./Prose.astro";
+import Link from "./Link.astro";
+
+export interface Props {
+  role: string;
+  linkUrl: string;
+  organization: string;
+  class?: string;
+}
+
+const { role, linkUrl, organization, class: className } = Astro.props;
+---
+
+<section class:list={["mb-8 last:mb-0 break-inside-avoid", className]}>
+  <h3 class="text-2xl font-bold tracking-tight text-gray-700 mb-0.5">
+    <Link url={linkUrl}>{organization}</Link>
+  </h3>
+
+  <p class="text-gray-500 italic mb-4">{role}</p>
+
+  <Prose class="prose-">
+    <slot />
+  </Prose>
+</section>

@@ -1,0 +1,11 @@
+---
+export interface Props {
+  class?: string;
+}
+
+const { class: className } = Astro.props;
+---
+
+<div class:list={["prose prose-slate max-w-none hover:prose-a:text-sky-600 hover:prose-a:underline", className]}>
+  <slot />
+</div>

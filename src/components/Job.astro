@@ -1,0 +1,31 @@
+---
+import Prose from "./Prose.astro";
+import Link from "./Link.astro";
+
+export interface Props {
+  organization: string;
+  linkUrl: string;
+}
+
+const { organization, linkUrl } = Astro.props;
+---
+
+<section class="sm:flex mb-8 sm:mb-12 last:mb-0">
+  <div class="sm:w-1/4 pr-8 mb-8 sm:mb-0 flex sm:block">
+    <div
+      class="print:border-l-6 border-l-8 print:border-gray-200 border-sky-300 pl-4"
+    >
+      <h3 class="text-base text-slate-800 font-semibold sm:mt-1 mb-2">
+        <Link url={linkUrl}>
+          {organization}
+        </Link>
+      </h3>
+      <Prose class="prose-sm text-gray-500">
+        <slot name="description" />
+      </Prose>
+    </div>
+  </div>
+  <div class="sm:w-3/4">
+    <slot name="positions" />
+  </div>
+</section>

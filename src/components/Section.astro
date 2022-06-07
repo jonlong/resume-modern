@@ -1,0 +1,17 @@
+---
+export interface Props {
+  title: string;
+  class?: string;
+}
+
+const { title, class: className } = Astro.props;
+---
+
+<section class:list={["mb-8 sm:mb-4 last:mb-0", className]}>
+  <h2
+    class="font-sans uppercase font-semibold tracking-wide border-b-2 pb-1 text-gray-500 mb-4"
+  >
+    {title}
+  </h2>
+  <slot />
+</section>
