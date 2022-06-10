@@ -11,7 +11,7 @@ technologies: "React, React Native, Vue, Jinja/Nunjucks, Typescript, Tailwind, t
 
 Co-created a company-wide [**design system**](https://stackup-ui.promptworks.com/) used as a baseline for nearly all of the company's greenfield projects since 2020. Enabled teams to ship high-quality interfaces in a matter of weeks instead of months, without dedicated UI resources.
 
-Created a Front End Working Group that generated company-wide **project guidelines** and strategies for **UI development**. Directly empowered an engineering team largely specializing in backend development to ship fast, consistent, high-quality UI work, and complete end-to-end features without intervention.
+Created a front-end Working Group that generated company-wide **project guidelines** and strategies for **UI development**. Directly empowered an engineering team largely specializing in backend development to ship fast, consistent, high-quality UI work, and complete end-to-end features without intervention.
 
 Shipped UI for projects using **React**, **React Native**, **Vue**, **Angular**, and **Jinja** component systems, established **client-side testing** strategies, and generated **QA** plans for complex **integration testing**.
 

@@ -9,7 +9,7 @@ endDateHuman: "January 2009"
 
 Produced visual designs in **Photoshop** for exhibition, advertising, and franchise sites. Designed **Flash** games and modules, banner advertisements, maps, and charts.
 
-Built **HTML/CSS/JS** pages, programmed Flash modules, and fixed **front end** bugs site-wide.
+Built **HTML/CSS/JS** pages, programmed Flash modules, and fixed **front-end** bugs site-wide.
 
 Generated sitemaps, wireframes, mockups, detailed spec sheets, data models and technical annotations for projects across the Digital Media division.
 

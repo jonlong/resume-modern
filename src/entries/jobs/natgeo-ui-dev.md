@@ -7,7 +7,7 @@ endDatetime: "2010-11"
 endDateHuman: "November 2010"
 ---
 
-Led the front end development of [nationalgeographic.com's](https://www.nationalgeographic.com) 2010 redesign.
+Led the front-end development of [nationalgeographic.com's](https://www.nationalgeographic.com) 2010 redesign.
 
 Developed UI components from flat designs using an **OOCSS** approach (an early predecessor of now-standard **BEM** and **utility class CSS**), **jQuery**, and **Django** templating.
 

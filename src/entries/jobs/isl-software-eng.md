@@ -9,7 +9,7 @@ endDateHuman: "April 2012"
 
 Led development efforts for websites, services, social campaigns, and on-site installations for brands including **Pinkberry**, **Ford**, **Deloitte**, **Hilton**, **Honest Tea**, **Volkswagen**, and **GE**.
 
-Focus on **front end engineering** with significant **backend** experience across **Node.js**, **MongoDB**, **nginx** and **LAMP** stacks.
+Focus on **front-end engineering** with significant **backend** experience across **Node.js**, **MongoDB**, **nginx** and **LAMP** stacks.
 
 Responsible for technical direction, application development, platform selection, project scoping, and elements of user interface design.
 
