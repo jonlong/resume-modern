@@ -1,6 +1,6 @@
 ---
 orgId: "isl"
-role: "Head of Product"
+role: "Product Development Lead"
 startDatetime: "2013-08"
 startDateHuman: "August 2013"
 endDatetime: "2014-09"
@@ -15,4 +15,4 @@ Used **Lean Startup** methodology to identify success factors, and extensive pro
 
 Facilitated discovery workshops across each division of the company, cross-collaborative design sessions, product feedback interviews, and pitches to both internal management and external agency owners.
 
-Constructed low-fidelity paper and **Sketch**-based **prototypes**, interactive mockups with **Keynote**, and **After Effects**, and a web-based **MVP** application with **Meteor** and **Sails** realtime frameworks (**Node.js**, **MongoDB**, **Socket.io**).
+Constructed low-fidelity paper and **Sketch**-based **prototypes**, interactive mockups with **Keynote**, and **After Effects**, and a web-based **MVP** application with **Meteor** and **Sails** real-time frameworks (**Node.js**, **MongoDB**, **Socket.io**).

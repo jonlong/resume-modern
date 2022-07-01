@@ -13,6 +13,6 @@ Developed UI components from flat designs using an **OOCSS** approach (an early 
 
 Designed a **page layout system** within the Django **CMS** to enable content producers to build pages that aligned with the organization's design standards.
 
-Awarded AdWeek's [2010 Magazine Web Site of the Year](https://www.adweek.com/brand-marketing/magazine-web-site-year-102953/).
+Awarded [2010 Magazine Web Site of the Year](https://www.adweek.com/brand-marketing/magazine-web-site-year-102953/) by AdWeek.
 
 Invited to Cupertino to prepare the site for [demo during Steve Jobs' 2010 iPad keynote](https://www.youtube.com/watch?v=zZtWlSDvb_k&t=873s).
