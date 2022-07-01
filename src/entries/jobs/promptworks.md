@@ -18,5 +18,3 @@ Shipped UI for projects using **React**, **React Native**, **Vue**, **Angular**,
 Used a **design systems** approach to sucessfully redesign an 8000+ page content site without a budget for dedicated design resources.
 
 Acted as **Tech Lead** on projects ranging from content sites to **A/B testing** a mobile delivery app with **millions of users**. Regularly led client meetings, presentations, and demos. Modeled a positive and inclusive approach to collaboration through working agreements, 1-on-1 retros with teammates, pairing with junior and senior colleagues, and delivering thoughtful feedback in code reviews.
-
-One of three employees offered an ownership position in the company.
